@@ -7,7 +7,8 @@ Public Chat: Messages from any user are visible to all active users in real-time
 No User Accounts: No sign-up or login required—just start chatting.
 How to Use
 Open the application in your browser:
-Chatting Application
+
+https://lets-chit-chat-mx47.onrender.com/
 
 Start sending and receiving messages in real-time with everyone who is currently active.
 
